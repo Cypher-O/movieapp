@@ -42,8 +42,12 @@ To get started with the Movie Database App, follow these steps:
 
 Contributions to the Movie Database App are welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute new features, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards and guidelines.
 
-![Screenshot 1](assets/screenshots/screenshot1.jpeg)
-![Screenshot 2](assets/screenshots/screenshot2.jpeg)
-![Screenshot 3](assets/screenshots/screenshot3.jpeg)
-![Screenshot 4](assets/screenshots/screenshot4.jpeg)
-![Screenshot 5](assets/screenshots/screenshot5.jpeg)
+<table>
+  <tr>
+    <td><img src="assets/screenshots/screenshot1.jpeg" alt="Screenshot 1" width="400"/></td>
+    <td><img src="assets/screenshots/screenshot2.jpeg" alt="Screenshot 2" width="400"/></td>
+    <td><img src="assets/screenshots/screenshot3.jpeg" alt="Screenshot 2" width="400"/></td>
+    <td><img src="assets/screenshots/screenshot4.jpeg" alt="Screenshot 2" width="400"/></td>
+    <td><img src="assets/screenshots/screenshot5.jpeg" alt="Screenshot 2" width="400"/></td>
+  </tr>
+</table>
